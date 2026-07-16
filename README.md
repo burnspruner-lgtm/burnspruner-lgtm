@@ -79,7 +79,7 @@
 ## 💼 Notable Projects
 
 - [**zeracorpv1.o**](https://github.com/burnspruner-lgtm/zeracorpv1.o) — A group start-up project with my friend... Ahang-on Prototype. The deal is Private [Wait].
-- [**BurnsPrunerTelementary**](https://github.com/burnspruner-lgtm/BurnsPrunerTelementary) — *(Add a quick one-line note about this project here)*.
+- [**BurnsPrunerTelementary**](https://github.com/burnspruner-lgtm/BurnsPrunerTelementary)
 
 ---
 
